@@ -9,6 +9,7 @@ There are black guiding tape that will direct the eebot on its path towards the 
 
 The eebot generally consist of 2 motors, a LCD panel, led sensors in the formation of a star, and a micro controller.
 General Formation of Sensors
+       
        .A     
    B.  .C .D    
      E. .F
