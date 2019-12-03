@@ -8,8 +8,7 @@ The objective of this project is to allow an mobile eebot to traverse a course w
 There are black guiding tape that will direct the eebot on its path towards the exit. However, many of these black tracks lead to deadends (walls).
 
 The eebot generally consist of 2 motors, a LCD panel, led sensors in the formation of a star, and a micro controller.
-General Formation of Sensors
-       
+General Formation of Sensors:
        .A     
    B.  .C .D    
      E. .F
